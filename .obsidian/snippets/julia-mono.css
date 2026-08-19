@@ -1,0 +1,9 @@
+@font-face {
+    font-family: JuliaMono;
+    src: url(https://github.com/cormullion/juliamono/raw/refs/heads/master/webfonts/JuliaMono-Regular.woff2) format(woff2);
+    text-rendering: optimizeLegibility;
+}
+
+body {
+  --font-monospace-override: JuliaMono;
+}
