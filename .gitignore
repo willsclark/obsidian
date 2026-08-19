@@ -1,0 +1,8 @@
+# Obsidian per-machine UI state -- churns on every pane move, never worth a diff.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Keep plugin/appearance/hotkey config tracked so the vault is reproducible.
+
+.DS_Store
