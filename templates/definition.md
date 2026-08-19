@@ -2,7 +2,7 @@
 type: definition
 tags: []
 ---
-# {{title}}
+# <% tp.file.title %>
 
 > [!abstract] Definition
 > 

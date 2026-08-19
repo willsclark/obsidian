@@ -2,7 +2,7 @@
 type: bridge
 tags: [bridge]
 ---
-# {{title}}
+# <% tp.file.title %>
 
 
 connects:: 

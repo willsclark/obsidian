@@ -3,10 +3,10 @@ type: lit
 status: reading
 tags: [lit]
 ---
-# {{title}}
+# <% tp.file.title %>
 
 pdf:: 
-started:: {{date}}
+started:: <% tp.date.now("YYYY-MM-DD") %>
 
 ## Notation
 

@@ -2,7 +2,7 @@
 type: problem
 tags: [problem]
 ---
-# {{title}}
+# <% tp.file.title %>
 
 source:: 
 uses:: 

@@ -2,7 +2,7 @@
 type: theorem
 tags: []
 ---
-# {{title}}
+# <% tp.file.title %>
 
 > [!abstract] Statement
 > 

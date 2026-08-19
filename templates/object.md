@@ -2,7 +2,7 @@
 type: object
 tags: []
 ---
-# {{title}}
+# <% tp.file.title %>
 
 requires:: 
 source:: 

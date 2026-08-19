@@ -45,6 +45,12 @@ Dataview can query them:
 
 **Words before symbols.** State the idea in prose first, since notation differs.
 
+**Creating a note.** Templater applies a template by folder, so just make the
+file in the right place — `Cmd+N` inside `concepts/` prompts for the archetype,
+`lit/` `problems/` `maps/` each stamp their one template automatically. Never
+link `[[theorem]]` from a concept note; the archetype is recorded as
+`type:` in the frontmatter, which is the queryable version.
+
 **Lit notes are disposable.** They follow the book's order so atoms don't have
 to. Read sequentially into `lit/`, then extract. Maps never link into `lit/`.
 
