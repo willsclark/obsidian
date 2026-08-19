@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a8729259809d5769",
+        "id": "9775981e0a70100a",
         "type": "tabs",
         "children": [
           {
-            "id": "7a27523c681e8e33",
+            "id": "e86adb04201c6467",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "sources/IntroToMLYounes.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "IntroToMLYounes"
             }
           }
         ]
@@ -83,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9991c2c1e258c901",
@@ -188,10 +186,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "95debe85f52685a7",
+  "active": "e86adb04201c6467",
   "lastOpenFiles": [
+    "knowledge.md",
+    "sources/IntroToMLYounes.pdf",
+    "Untitled.base",
+    "Untitled.canvas",
     "notes",
-    "sources",
-    "Untitled.md"
+    "sources"
   ]
 }
