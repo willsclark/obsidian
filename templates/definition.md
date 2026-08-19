@@ -13,6 +13,9 @@ source::
 ## Intuition
 
 
+## Example
+
+
 ## Non-example
 
 
