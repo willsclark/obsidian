@@ -3,6 +3,7 @@ type: lit
 status: reading
 tags: [lit, machine-learning]
 ---
+
 # Younes — Introduction to Machine Learning
 
 pdf:: [[IntroToMLYounes.pdf]]
@@ -19,6 +20,7 @@ started:: 2026-08-19
 > offset:: ?
 
 ## Notation
+
 <!-- Fill in as collisions with prior coursework appear. This table is why
      notes written from this book will still make sense next year. -->
 
@@ -27,6 +29,7 @@ started:: 2026-08-19
 |        |                    |                 |
 
 ## Scope note
+
 Author's own framing: mathematical/statistical bias, assumes linear algebra,
 matrix analysis, multivariate calculus, probability and statistics. Measure
 theory is used sparingly and localized. So the prerequisite load is real but
@@ -42,14 +45,14 @@ Legend: `[ ]` unread · `[/]` read, atoms not extracted · `[x]` extracted
 - [ ] **1 — General Notation and Background Material** · p.15 ⟲
       Linear algebra, topology (open/closed/compact, metric spaces), calculus
       (differentials, Taylor), probability incl. measure-theoretic conditioning.
-      *This is the book's own prerequisite list. Read it as an audit of what to
-      review, not as material to atomize.*
+      _This is the book's own prerequisite list. Read it as an audit of what to
+      review, not as material to atomize._
 - [ ] **2 — A Few Results in Matrix Analysis** · p.31
       Trace inequality, matrix norms, low-rank approximation.
 - [ ] **3 — Introduction to Optimization** · p.43
       Convexity, relative interior, descent directions, convergence, line search,
       SGD + ADAM, Lagrange multipliers, subgradients, proximal methods, duality/KKT,
-      ADMM. *Largest single dependency in the book; most atoms per page.*
+      ADMM. _Largest single dependency in the book; most atoms per page._
 - [ ] **4 — Introduction: Bias and Variance** · p.105
       Sieves, kernel density estimation.
 - [ ] **5 — Prediction: Basic Concepts** · p.115
@@ -99,6 +102,7 @@ Legend: `[ ]` unread · `[/]` read, atoms not extracted · `[x]` extracted
 ---
 
 ## Bridge queue
+
 <!-- CS/math correspondences visible from the TOC. Confirm from the text
      before promoting any of these to a note in concepts/. -->
 
@@ -115,4 +119,3 @@ Legend: `[ ]` unread · `[/]` read, atoms not extracted · `[x]` extracted
 ## Open questions
 
 ## Reading log
-
