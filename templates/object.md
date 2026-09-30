@@ -7,13 +7,10 @@ tags: []
 requires:: 
 source:: 
 
-## Definition / characterizations
+## Motivation
 
-## Properties
+## Intuition
 
-## Canonical examples
-- 
+## Definition 
 
-## Where it shows up
-- 
 

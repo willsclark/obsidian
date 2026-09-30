@@ -21,7 +21,7 @@ started:: 2026-09-29
 		- [[Mathematical Induction]]
 - [ ] **Integers $\mathbb{Z}$ and Rationals $\mathbb{Q}$ .** 
 	- Sources:
-		- [[205A_L2_XHANG.pdf]]
+		- [[205A_L2_Xhang.pdf]]
 		- [[205A_L2_Clark.pdf]]
 	- Notes:
 		- [[Natural Number Set]]

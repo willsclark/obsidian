@@ -5,7 +5,7 @@ tags: []
 # The Set of Integers
 
 requires:: [[Natural Number Set]], [[Equivalence Relation]]
-source:: [[205A_L2_XHANG.pdf#page=1]]
+source:: [[205A_L2_Xhang.pdf#page=1]]
 
 ## Motivation
 
