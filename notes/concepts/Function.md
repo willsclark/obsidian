@@ -18,13 +18,13 @@ source:: https://en.wikipedia.org/wiki/Function_(mathematics)
 1) For every $x \in X$, theres $y \in Y$ such that ${}(x,y) \in \mathcal{R} \iff x \mathcal{R}y{}$
 2) If ${}(x, y) \in \mathcal{R}{}$ and ${}(x, z) \in \mathcal R {}$, then ${}y = z{}$. 
 ### Example
-![[Pasted image 20260930144012.png|423]]
+![[Function.png|423]]
 
 This is a function. Every value in $X$ is the first element in only one ordered pair. 
 ${}(1, D), (2, C), (3, C){}$. Intuitively, this means that the function maps every input to the _same_ output. The set $Y$ above is not ${}\mathrm{Im} f{} = \left\{ D, C \right\}$. 
 
 ### Non Example
-![[Pasted image 20260930143957.png|435]]
+![[NonFunction.png|435]]
 
 
 

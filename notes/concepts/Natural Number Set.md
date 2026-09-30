@@ -1,5 +1,5 @@
 source::[[205A_L1_XHANG.pdf#page=3]]
-requires :: [[notes/concepts/Peano's Axioms|Peano's Axioms]] [[Arithmetic Operations on Nat]]
+requires :: [[notes/concepts/Peano's Axioms|Peano's Axioms]] [[Arithmetic Operations on Nat]] [[Order Structure]]
 # Definition
 
 The natural number set $Nat$ is a set of elements with a successor function ${}S{}$ defined on it, satisfying [[Peano's Axioms]]. Formally,
@@ -40,4 +40,7 @@ $$
 # Arithmetic Operations 
 
 $Nat$ has addition $+$ and multiplication $\cdot$ defined using only $\mathbf{0}$ and $\mathbf{s(x)}$, and satisfying commutativity and distributivity.
+
+
+# Order Structure 
 

@@ -24,7 +24,7 @@ started:: 2026-09-29
 		- [[205A_L2_Xhang.pdf]]
 		- [[205A_L2_Clark.pdf]]
 	- Notes:
-		- [[Natural Number Set]]
+		- [[Order Structure]] 
 		- 
 		
 	
