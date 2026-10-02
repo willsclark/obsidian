@@ -6,3 +6,8 @@
 # Keep plugin/appearance/hotkey config tracked so the vault is reproducible.
 
 .DS_Store
+
+# Course source symlinks into ~/school -- absolute paths, machine-local.
+/sources/M205A
+/sources/CS169
+/sources/CS280
